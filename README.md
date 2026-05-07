@@ -24,9 +24,9 @@ This home lab is designed to practice virtualization, Linux administration, Wind
 
 | Component | Status |
 |---|---|
-| Proxmox Host | Planned / Installed / Working |
-| Ubuntu Server VM | Planned / Installed / Working |
-| Windows Server VM | Planned / Installed / Working |
-| Docker Services | Planned / Installed / Working |
-| Monitoring | Planned / Installed / Working |
-| Backups | Planned / Installed / Working |
+| Proxmox Host | Planned |
+| Ubuntu Server VM | Installed |
+| Windows Server VM | Installed |
+| Docker Services | Planned |
+| Monitoring | Planned |
+| Backups | Planned |
